@@ -1,0 +1,310 @@
+
+
+
+body
+
+{
+  background-color:#9042f5;
+margin:0px;
+  }
+main{
+  margin-left:20px;
+  margin-right:20px;
+
+  }
+h1
+{
+  text-align:center;
+  color:#fff;
+  }
+.search-container{
+  display : flex;
+  justify-content:right;
+  align-items:center;
+  width:100%;
+  margin:20px auto;
+  /*position: absolute;
+  top:20px;
+  right:20px;
+  background-color: #fff;
+
+  padding: 10px;
+
+  border-radius: 5px;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display:flex;
+  align-item:center;
+  margin:20px auto;*/
+
+}
+
+.search-container input type="search" {
+
+  width: 70px;
+
+  height: 30px;
+
+  padding: 10px;
+
+  border: none;
+
+  border-radius: 5px;
+
+  font-size: 10px;
+  margin-right:10px;
+
+}
+
+.search-container button {
+
+  width: 70px;
+  height: 20px;
+
+  background-color: #4CAF50;
+
+  color: #fff;
+
+  border: none;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+}
+
+.search-container button:hover {
+
+  background-color: #3e8e41;
+
+}
+.navbar ul{
+  list-style-type : none;
+  background-color:#841dc4;
+    padding:0px;
+  margin:0px;
+  overflow:hidden;
+  }
+.navbar a{
+  color:white;
+  text-decoration:none;
+  padding:15px;
+  display : block;
+  text-align:center;
+  }
+.navbar li {
+  float:left;
+    }
+.navbar a:hover{
+  background-color:#972399;
+}
+/*.hamburger-menu {
+  display: none;
+  cursor: pointer;
+}
+
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-toggle {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: none;
+}
+
+.dropdown-menu li {
+  margin-bottom: 10px;
+}
+
+.dropdown-menu li a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.dropdown-menu li a:hover {
+  color: #23527c;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+/* Mobile-friendly adjustments */
+
+/*@media only screen and (max-width: 768px) {
+  .hamburger-menu {
+    display: block;
+  }
+  
+  .nav-menu {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .nav-menu li {
+    margin-bottom: 10px;
+  }
+  
+  .dropdown-menu {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}
+
+.hamburger-menu:hover {
+  background-color: #ccc;
+}
+
+.hamburger-menu span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #333;
+  margin-bottom: 5px;
+}*/
+  h2{
+    text-align:center;
+    color:white;
+  }
+  p{
+    text-align:center;
+    color:white;
+  }
+.video-container{
+  display:flex;
+  justify-content:space-between;
+}
+.video1, .video2{
+  width:95%;
+  height:95%;
+}
+.video1{
+  position:auto;
+  background-color:#f2f2f2;
+  padding:10px;
+}
+.video2{
+  position:auto;
+  background-color:#f2f2f2;
+  padding:10px;
+}
+.footer-container{
+  position:fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+  background-color:#841dc4;
+  color:#fff;
+  padding:20px;
+  text-align:left;
+}
+.dropdown{
+  position:relative;
+}
+.dropdown-toggle{
+  background -color:#4CAF50;
+  color:#fff;
+  padding:10px 20px;
+  barder:none;
+  barder-radius:5px;
+  cursor:pointer;
+}
+.dropdown-toggle:hover{
+  background-color: #3e8e41;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: none;
+}
+
+.dropdown-menu li {
+  margin-bottom: 10px;
+}
+
+.dropdown-menu li a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.dropdown-menu li a:hover {
+  color: #23527c;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+
+
+  
+  
+
+
+  
+  
+/*nav ul{
+  list-style: none;
+  margin:0;
+  padding:0;
+  display:flex;
+  justify-content:space-between;
+  display:inline-block;
+  width:50px;
+  }
+nav ul  li {
+  margin-right:10px;
+  }
+nav ul li a {
+  padding: 5px 1010px;
+  font-size:14px;
+  }
+  text-decoration: none;
+  color:#337ab;
+  }
+nav  ul  li a  : hover{
+  color: white;
+  } */
+
+  
+
+  
+  
+
+  
+
+
+
+
+
